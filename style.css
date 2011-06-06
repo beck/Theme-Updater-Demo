@@ -3,12 +3,12 @@ Theme Name: Theme Upgrader Demo
 Author: UCF Web Communications
 Github Theme URI: https://github.com/beck/Theme-Updater-Demo
 Template: twentyten
-Version: v1.0.0
+Version: v1.1.0
 Description: a theme to demo the plugin
 */
 
 @import url('../twentyten/style.css');
 
-/* pink */
-html, body{ background:#557FB7; }
+/* green */
+html, body{ background:#43AD4C; }
 
